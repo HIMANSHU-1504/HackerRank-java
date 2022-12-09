@@ -1,0 +1,3 @@
+Java Loops ||
+
+Sum of series (a+2^0.b),...

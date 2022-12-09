@@ -1,0 +1,6 @@
+Where n can be fitted
+
+A byte is an 8-bit signed integer.
+A short is a 16-bit signed integer.
+An int is a 32-bit signed integer.
+A long is a 64-bit signed integer
